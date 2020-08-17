@@ -27,5 +27,5 @@ Can get different exchange rate between cryptocurrencies or traditional money, t
 
 
 ## About
-Author: [CZShuo](https://github.com/CZShuo) (Oscar Cheng)
+Author: [CZShuo](https://github.com/CZShuo) (Oscar Cheng)<br>
 <a href="https://www.blockore.io/zh-tw/"><img src="/md/logo.png" title="BlocKore" width="500px"/></a>
