@@ -10,11 +10,13 @@ Cryptocurrencies’ price chatbot.
 ## Features
 #### Brief Content
 <img src="/readme/pbtc.jpg" width="300px">
+
 #### Detailed Content
 <img src="/readme/ppbtc.jpg" width="300px">
 
 #### Exchange Rate
 Can get different exchange rate between cryptocurrencies or traditional money, the default base currency is USD.
+
 - BTC to ETH
 
 <img src="/readme/pbtceth.jpg" width="300px">
@@ -27,5 +29,7 @@ Can get different exchange rate between cryptocurrencies or traditional money, t
 
 
 ## About
+
 Author: [CZShuo](https://github.com/CZShuo) (Oscar Cheng)<br>
+
 <a href="https://www.blockore.io/zh-tw/"><img src="/readme/logo.png" title="BlocKore" width="500px"/></a>
